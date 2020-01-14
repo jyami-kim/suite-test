@@ -1,13 +1,13 @@
-package com.jyami.suittest;
+package com.suiter.suitetest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SuitTestApplicationTests {
+class SuiteTestApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
